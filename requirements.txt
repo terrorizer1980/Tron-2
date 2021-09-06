@@ -33,7 +33,7 @@ ipdb==0.12.2
 ipython==7.8.0
 ipython-genutils==0.2.0
 jedi==0.15.1
-Jinja2==2.10.3
+Jinja2==2.11.3
 jmespath==0.9.4
 jsondiff==1.1.2
 jsonpatch==1.24
@@ -65,7 +65,7 @@ python-dateutil==2.8.0
 python-jose==3.0.1
 pytimeparse==1.1.8
 pytz==2019.3
-PyYAML==5.1.2
+PyYAML==5.2
 requests==2.22.0
 responses==0.10.6
 rsa==4.0
