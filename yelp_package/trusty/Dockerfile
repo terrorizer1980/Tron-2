@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190425
 
 # Need Python 3.6
 RUN apt-get -q update && \
