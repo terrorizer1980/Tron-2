@@ -55,7 +55,7 @@ py-bcrypt==0.4
 pyasn1==0.4.7
 pycparser==2.19
 pyformance==0.4
-Pygments==2.4.2
+Pygments==2.7.4
 PyHamcrest==2.0.2
 pymesos==0.3.9
 pyrsistent==0.15.4
