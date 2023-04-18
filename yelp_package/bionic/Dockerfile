@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 
 RUN apt-get -q update && \
     DEBIAN_FRONTEND=noninteractive apt-get -q install -y --no-install-recommends \
