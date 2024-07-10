@@ -82,5 +82,5 @@ websocket-client==0.56.0
 Werkzeug==0.16.0
 wrapt==1.11.2
 xmltodict==0.12.0
-zipp==0.6.0
+zipp==3.19.1
 zope.interface==5.1.0
