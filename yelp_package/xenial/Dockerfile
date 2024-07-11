@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20201014
 
 # Need Python 3.6
 RUN apt-get -q update && \
